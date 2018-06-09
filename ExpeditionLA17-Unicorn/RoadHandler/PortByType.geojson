@@ -1,0 +1,18 @@
+{
+"type": "FeatureCollection",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:EPSG::3857" } },
+"features": [
+{ "type": "Feature", "properties": { "OBJECTID": 3361, "MAIN_PORT_": "AL HOCEIMA", "LAT_DEG": 35.25, "LONG_DEG": -3.9167, "HARBOR_SIZ": "V", "HARBOR_TYP": "CB", "SHELTER_AF": "P" }, "geometry": { "type": "Point", "coordinates": [ -436005.04954608157, 4197907.2588281855 ] } },
+{ "type": "Feature", "properties": { "OBJECTID": 3380, "MAIN_PORT_": "TANGER", "LAT_DEG": 35.7833, "LONG_DEG": -5.8167, "HARBOR_SIZ": "M", "HARBOR_TYP": "CB", "SHELTER_AF": "P" }, "geometry": { "type": "Point", "coordinates": [ -647512.08213115856, 4270844.6080495939 ] } },
+{ "type": "Feature", "properties": { "OBJECTID": 3391, "MAIN_PORT_": "PORT NADOR", "LAT_DEG": 35.2833, "LONG_DEG": -2.9333, "HARBOR_SIZ": "V", "HARBOR_TYP": "CB", "SHELTER_AF": "F" }, "geometry": { "type": "Point", "coordinates": [ -326533.4623433575, 4202447.4402588829 ] } },
+{ "type": "Feature", "properties": { "OBJECTID": 3403, "MAIN_PORT_": "LARACHE", "LAT_DEG": 35.2, "LONG_DEG": -6.15, "HARBOR_SIZ": "V", "HARBOR_TYP": "CB", "SHELTER_AF": "F" }, "geometry": { "type": "Point", "coordinates": [ -684614.86840087548, 4191093.6702597439 ] } },
+{ "type": "Feature", "properties": { "OBJECTID": 3425, "MAIN_PORT_": "KENITRA", "LAT_DEG": 34.3, "LONG_DEG": -6.6, "HARBOR_SIZ": "S", "HARBOR_TYP": "RN", "SHELTER_AF": "G" }, "geometry": { "type": "Point", "coordinates": [ -734708.63925785571, 4069156.1827939972 ] } },
+{ "type": "Feature", "properties": { "OBJECTID": 3438, "MAIN_PORT_": "RABAT", "LAT_DEG": 34.0333, "LONG_DEG": -6.8333, "HARBOR_SIZ": "V", "HARBOR_TYP": "CB", "SHELTER_AF": "F" }, "geometry": { "type": "Point", "coordinates": [ -760679.47647048905, 4033274.2794724405 ] } },
+{ "type": "Feature", "properties": { "OBJECTID": 3448, "MAIN_PORT_": "MOHAMMEADIA", "LAT_DEG": 33.7167, "LONG_DEG": -7.4, "HARBOR_SIZ": "V", "HARBOR_TYP": "CB", "SHELTER_AF": "F" }, "geometry": { "type": "Point", "coordinates": [ -823764.2319147177, 3990824.8970883936 ] } },
+{ "type": "Feature", "properties": { "OBJECTID": 3457, "MAIN_PORT_": "CASABLANCA", "LAT_DEG": 33.6, "LONG_DEG": -7.6167, "HARBOR_SIZ": "L", "HARBOR_TYP": "CB", "SHELTER_AF": "F" }, "geometry": { "type": "Point", "coordinates": [ -847887.1655590497, 3975217.4293142334 ] } },
+{ "type": "Feature", "properties": { "OBJECTID": 3466, "MAIN_PORT_": "EL JADIDA", "LAT_DEG": 33.25, "LONG_DEG": -8.5, "HARBOR_SIZ": "V", "HARBOR_TYP": "CB", "SHELTER_AF": "F" }, "geometry": { "type": "Point", "coordinates": [ -946215.6717428267, 3928534.4904531837 ] } },
+{ "type": "Feature", "properties": { "OBJECTID": 3474, "MAIN_PORT_": "SAFI", "LAT_DEG": 32.3, "LONG_DEG": -9.25, "HARBOR_SIZ": "M", "HARBOR_TYP": "CB", "SHELTER_AF": "F" }, "geometry": { "type": "Point", "coordinates": [ -1029705.2898711525, 3802755.0318986028 ] } },
+{ "type": "Feature", "properties": { "OBJECTID": 3486, "MAIN_PORT_": "ESSAOUIRA", "LAT_DEG": 31.5, "LONG_DEG": -9.7833, "HARBOR_SIZ": "V", "HARBOR_TYP": "CN", "SHELTER_AF": "F" }, "geometry": { "type": "Point", "coordinates": [ -1089071.9742550291, 3697855.3303507492 ] } },
+{ "type": "Feature", "properties": { "OBJECTID": 3501, "MAIN_PORT_": "AGADIR", "LAT_DEG": 30.4167, "LONG_DEG": -9.6333, "HARBOR_SIZ": "M", "HARBOR_TYP": "CB", "SHELTER_AF": "F" }, "geometry": { "type": "Point", "coordinates": [ -1072374.0506694131, 3557225.9874803349 ] } }
+]
+}

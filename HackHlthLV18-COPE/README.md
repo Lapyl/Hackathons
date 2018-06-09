@@ -1,0 +1,2 @@
+# COPE
+COPE (Cognitive Opia &amp; Pain Estimator) is an An application for estimating whether an observed object is a person in pain, drunk, or opiated, and to report appropriately. Current methods burn physicians' precious time and generally involve unreliable pain scales. This application can reduce the workload of physicians, provide patients with engaging interaction, detect paining or painful people, and detect weed farming through satellite imagery.
